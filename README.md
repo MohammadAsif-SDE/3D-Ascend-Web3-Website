@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="preview.gif" alt="Ascend Web3 preview" width="900">
-</p>
-
 <h1 align="center">Ascend.</h1>
 
 <p align="center">
@@ -23,6 +19,12 @@
   <a href="#page-sections">Page Sections</a>
   ·
   <a href="#deployment">Deployment</a>
+</p>
+
+<br />
+
+<p align="center">
+  <img src="preview.gif" alt="Ascend Web3 preview" width="900">
 </p>
 
 ## Overview
