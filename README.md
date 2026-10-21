@@ -161,6 +161,3 @@ Ascend. is a static Vite application and can be deployed to Vercel, Netlify, Git
 
 Configure the Vite `base` option in [`vite.config.ts`](vite.config.ts) when hosting from a subpath.
 
-## License
-
-No license has been declared for this project yet. Add a `LICENSE` file before public distribution.
